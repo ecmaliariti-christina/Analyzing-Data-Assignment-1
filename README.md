@@ -18,11 +18,11 @@ Comparison between stemmed and unstemmed results
 
 POS tagging using spaCy models for:
 
-English (en_core_web_sm)
+English 
 
-Dutch (nl_core_news_sm)
+Dutch 
 
-German (de_core_news_sm)
+German 
 
 Frequency comparison of POS tags across languages
 
